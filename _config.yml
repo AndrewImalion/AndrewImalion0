@@ -1,7 +1,7 @@
-﻿# Site settings
+# Site settings
 title: title
 SEOTitle: SEOTitle | title
-header-img: img/pic-bg-dice.jpg
+header-img: img/bg-water.jpg
 email: email
 description: "描述"
 keyword: "关键词"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/-/-.github.io" # you code repository
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "侧边栏描述"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
